@@ -1,7 +1,7 @@
 A new evolution of the famous Olkal CG Scale. For this release, I did a merge of :
 * the original project from Olav Kallhovd here: https://github.com/olkal/CG_scale
 * the fork from Alain Desembré here: https://github.com/adesandr/CG_Scale_OlkalBreakout
-* the fork from Stphan Gamp here: https://github.com/sgamp/CG_Scale_modifiedSG
+* the fork from Stephan Gamp here: https://github.com/sgamp/CG_Scale_modifiedSG
 
 
 I didn't change everything, of course, the main part of the original programm regarding the scale management is kept, because it works very well and provides a very accurate result. I have included a new library, very efficient to capture the key values, from Vedat Ozan Oner (https://www.codeproject.com/Tips/709109/ADKeyboard-Library-for-Arduino).
