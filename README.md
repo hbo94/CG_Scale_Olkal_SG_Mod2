@@ -23,3 +23,6 @@ For the software part :
 * it is possible to choose the type of support (little, medium, large)
 * the tare configuration menu is simpler and takes less memory
 * two lang are available: English and French
+
+
+The assembly instructions are perfectly described into the Alain Désambré project, so I suggest to follow his guide.
