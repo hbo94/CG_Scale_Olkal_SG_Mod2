@@ -11,5 +11,6 @@ To build this scale, you need this components :
 | AD Keyboard 5 buttons |  | <img src="/Images/ADKeyboard-5.jpg" alt="keyboard" width="30%" height="30%" /> | [Euro Makers](https://euro-makers.com/fr/accessoires-arduino/3878-d-pad-module-arduino-5-boutons-dpad-3701172927702.html) |
 | Switch 2 positions |  | <img src="/Images/Switch-2.jpg" alt="Switch" width="30%" height="30%" /> | [Amazon](https://www.amazon.fr/gp/product/B077D9FRGL/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) |
 | My PCB | Not mandatory, but very usefull  | <img src="/Images/CGScale-PCB.png" alt="PCB" width="30%" height="30%" /> | Links to order the PCB </br>[JLCPCB](https://jlcpcb.com/)</br>[Aisler](https://aisler.net/) |
+| 9V Battery plug | not needed if you want to use a 2S LiPo | <img src="/Images/9vBatteryConnector.jpg" alt="" width="30%" height="30%" /> | []() |
 |          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
 
