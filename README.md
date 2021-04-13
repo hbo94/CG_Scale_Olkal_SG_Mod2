@@ -1,3 +1,5 @@
+# Overview
+
 A new evolution of the famous Olav Kallhovd CG Scale. For this release, I did a merge of :
 * the original project from Olav here: https://github.com/olkal/CG_scale
 * the fork from Alain Désandré here: https://github.com/adesandr/CG_Scale_OlkalBreakout
