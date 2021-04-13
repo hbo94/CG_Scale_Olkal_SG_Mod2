@@ -13,4 +13,9 @@ To build this scale, you need this components :
 | My PCB | Not mandatory, but very usefull  | <img src="/Images/CGScale-PCB.png" alt="PCB" width="30%" height="30%" /> | Links to order the PCB </br>[JLCPCB](https://jlcpcb.com/)</br>[Aisler](https://aisler.net/) |
 | 9V Battery plug | not needed if you want to use a 2S LiPo | <img src="/Images/9vBatteryConnector.jpg" alt="" width="30%" height="30%" /> | []() |
 |          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
+|          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
+|          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
+|          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
+|          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
+|          |                               | <img src="/Images/" alt="" width="30%" height="30%" /> | []() |
 
