@@ -21,10 +21,11 @@ I didn't change everything, of course, the main part of the original programm re
 ## For the software part :
 
 * a interactive menu has been added for the initial configuration
-* the autocalibration is optimized to take a very short time
-* it is possible to choose the type of support: little, medium, large ; for the moment, they have the same characteristics, but in a later release, I will add bigger support for bigger model
-* the tare configuration menu is simpler and takes less memory
+* the autocalibration (a very good idea from Stephen indeed !) has been optimized to win time and accuracy
+* it is possible to choose the type of support: little, medium, large ; for the moment, they all have the same characteristics, but in a later release, I will add bigger support for bigger model
+* the tare configuration menu is simpler and consumes less memory
 * two lang are available: English and French
+* the keyboard management is done by the excellent library from Vedat, and eliminate the issues when setting the values of key pressed.
 
 ## Assembly manual
 
