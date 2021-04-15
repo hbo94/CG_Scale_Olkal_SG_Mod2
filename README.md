@@ -1,3 +1,6 @@
+<p align=center>
+<img src="/Images/IMG_5634.jpg" alt="" width="60%" height="60%" />
+</p>
 # Overview
 
 A new evolution of the famous Olav Kallhovd CG Scale. For this release, I did a merge of :
