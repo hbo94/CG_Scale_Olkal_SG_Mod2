@@ -10,7 +10,7 @@ The menu for configuring the balance is located in the "setup" step and is there
 
 
 ## The keyboard
-! [keyboard] (/Images/CGScale-keyboard-en.jpg)
+![keyboard](/Images/CGScale-keyboard-en.jpg)
 
 ## Initial setting
 
@@ -36,7 +36,7 @@ This submenu allows you to choose the type of support. For now, the three availa
 **`Calibration`** </br>
 `> Config. tare` </br>
 `Front calibration` </br>
-`Back calibration </br>
+`Back calibration` </br>
 
 This submenu allows 3 things:
 * define the reference tare weight that you will use to calibrate the scales
@@ -66,7 +66,7 @@ Return to the main menu with the `Left` key.
 
 Once calibrated, the scale operates on its own, place a model on the supports, and the weight and CG readings are done in seconds.
 
-** Recommendations for proper operation **
+**Recommendations for proper operation**
 * place the scale on a stable and level surface
 * do not touch the balance supports during its start-up phase
 * Avoid weighing a model when it is windy, the reading will not be stable because the model is moving.
