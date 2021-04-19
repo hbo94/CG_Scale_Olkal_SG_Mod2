@@ -64,7 +64,7 @@ Retour au menu principal avec la touche `Gauche`.
 
 ## Utilisation de la balance
 
-Une fois calibrée, la balance fonctionne toute seule, posez un modèle sur les supports, et la la lecture est quasi immédiate.
+Une fois calibrée, la balance fonctionne toute seule, posez un modèle sur les supports, et la lecture du poids et du CG se font en quelques secondes.
 
 **Recommandations pour un bon fonctionnement**
 * poser la balance sur une surface stable et plane
