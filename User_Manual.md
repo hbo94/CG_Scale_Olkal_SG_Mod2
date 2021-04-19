@@ -16,7 +16,7 @@ The menu for configuring the balance is located in the "setup" step and is there
 
 ### Main Menu
 When the scale starts up, the following menu is displayed: </br>
-** `Configuration` ** </br>
+**`Configuration`** </br>
 `Support option` </br>
 `Calibration` </br>
 `> Quit` </br>
@@ -25,7 +25,7 @@ In this first menu level, the `Enter` key is used to select an action. `Quit` wi
 In the sub-menu, the selection of an option is done with the `Right` key, the` Left` key allowing it to return to the main menu.
 
 ### Support choice menu
-** `Support: small` ** </br>
+**`Support: small`** </br>
 `Small` </br>
 `Medium` </br>
 `> Large` </br>
@@ -33,7 +33,7 @@ In the sub-menu, the selection of an option is done with the `Right` key, the` L
 This submenu allows you to choose the type of support. For now, the three available supports all have the same characteristics, so there is no need to change the support type. This will be useful in a future version of the software, with larger supports.
 
 ### Calibration menu
-** `Calibration` ** </br>
+**`Calibration`** </br>
 `> Config. tare` </br>
 `Front calibration` </br>
 `Back calibration </br>
