@@ -73,8 +73,8 @@ Une fois calibrée, la balance fonctionne toute seule, posez un modèle sur les 
 
 ## Problèmes rencontrés
 
-### Lors de l'assemblage
-* les jauges de contraintes sont livrées avec des fils assez longs, qu'il faut raccourcir pour diminuer le "bruit", ce "bruit" va empêcher les amplificateurs HX711 de "lire" des valeurs stables et la calibration ne fonctionnera pas.
+### Stabilité des valeurs renvoyées par une balance
+* les jauges de contraintes sont livrées avec des fils assez longs, qu'il faut raccourcir au maximum pour diminuer le "bruit", ce "bruit" va empêcher les amplificateurs HX711 de "lire" des valeurs stables et la calibration ne fonctionnera pas.
 * pour atténuer encore plus le "bruit", il faut torsader les fils des jauges de contrainte.
 
 ### Lors de l'utilisation
