@@ -40,7 +40,11 @@ You can also find useful instructions into the manual from [Stephen's projet](ht
 
 * use a bigger display, will be more confortable, such as a 1.3" OLED (very easy to do)
 * do a rework of the frame to accept bigger supports, for bigger models 
-* create new supports for bigger models
+* create new supports for bigger models like this : 
+<p align=center>
+<img src="/Images/CG Scale XL.jpg" alt="" width="50%" height="50%" />
+</p>
+
 * any other improvement that everyone wants to add !
 
 
