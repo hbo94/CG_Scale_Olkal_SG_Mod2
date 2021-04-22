@@ -44,15 +44,16 @@ I didn't change everything, of course, the main part of the original programm re
 The assembly instructions are perfectly described into the [Alain's project](https://github.com/adesandr/CG_Scale_OlkalBreakout), so I suggest to follow his guide.
 You can also find useful instructions into the manual from [Stephen's projet](https://github.com/sgamp/CG_Scale_modifiedSG).
 
-# Evolution to do after
-
-* use a bigger display, will be more confortable, such as a 1.3" OLED (very easy to do)
-* do a rework of the frame to accept bigger supports, for bigger models 
-* create new supports for bigger models like this : 
+# Evolution currently in development
+New supports for bigger models : 
 <p align=center>
 <img src="/Images/CG Scale XLv2.jpg" alt="" width="50%" height="50%" />
 </p>
 
+# Evolution to to
+* use a bigger display, will be more confortable, such as a 1.3" OLED (very easy to do)
+* do a rework of the frame stable enough to accept bigger supports, for bigger models 
+* do a help support for tare calibration (mandatory with big supports)
 * any other improvement that everyone wants to add !
 
 
