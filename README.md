@@ -12,6 +12,14 @@ A new evolution of the famous Olav Kallhovd CG Scale. For this release, I did a 
 
 I didn't change everything, of course, the main part of the original programm regarding the scale management is kept, because it works very well and provides a very accurate result. I have included a new library, very efficient to capture the key values, from Vedat Ozan Oner (https://www.codeproject.com/Tips/709109/ADKeyboard-Library-for-Arduino).
 
+# Dimensions
+<p align=center>
+<img src="/Images/CG Scale F3F.jpg" alt="" width="50%" height="50%" />
+</p>
+<p align=center>
+<img src="/Images/CG Scale F5J.jpg" alt="" width="50%" height="50%" />
+</p>
+
 # What'n new with this release 
 
 ## For the scale part :
