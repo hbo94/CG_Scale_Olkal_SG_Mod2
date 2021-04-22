@@ -50,7 +50,7 @@ You can also find useful instructions into the manual from [Stephen's projet](ht
 * do a rework of the frame to accept bigger supports, for bigger models 
 * create new supports for bigger models like this : 
 <p align=center>
-<img src="/Images/CG Scale XL.jpg" alt="" width="50%" height="50%" />
+<img src="/Images/CG Scale XLv2.jpg" alt="" width="50%" height="50%" />
 </p>
 
 * any other improvement that everyone wants to add !
