@@ -10,7 +10,7 @@ A new evolution of the famous Olav Kallhovd CG Scale. For this release, I did a 
 * the fork from Stephan Gamp here: https://github.com/sgamp/CG_Scale_modifiedSG
 
 
-I didn't change everything, of course, the main part of the original programm regarding the scale management is kept, because it works very well and provides a very accurate result. I have included a new library, very efficient to capture the key values, from Vedat Ozan Oner (https://www.codeproject.com/Tips/709109/ADKeyboard-Library-for-Arduino).
+I didn't change everything, of course, the main part of the original program regarding the scale management is kept, because it works very well and provides a very accurate result. I have included a new library, very efficient to capture the key values, from Vedat Ozan Oner (https://www.codeproject.com/Tips/709109/ADKeyboard-Library-for-Arduino).
 
 # Dimensions
 <p align=center>
