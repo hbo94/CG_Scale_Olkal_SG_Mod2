@@ -2,6 +2,7 @@
 <img src="/Images/IMG_5634.jpg" alt="" width="50%" height="50%" />
 </p>
 
+## Table of contents
 - [Overview](#overview)
 - [Dimensions](#dimensions)
 - [Change from original project](#change-from-original-project)
@@ -10,7 +11,6 @@
   * [Assembly manual](#assembly-manual)
 - [Evolution to to](#evolution-to-to)
 - [Change Log](#change-log)
-
 
 ## Overview 
 
