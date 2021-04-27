@@ -1,5 +1,5 @@
 <p align=center>
-<img src="/Images/IMG_5634.jpg" alt="" width="50%" height="50%" />
+<img src="/Images/IMG_5634.jpg" alt="" width="50%" height="50%" /><img src="/Images/CGScale-BigSupport.jpg" alt="" width="50%" height="50%" />
 </p>
 
 ## Table of contents
