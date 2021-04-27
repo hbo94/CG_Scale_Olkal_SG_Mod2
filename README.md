@@ -54,5 +54,6 @@ You can also find useful instructions into the manual from [Stephen's projet](ht
 * do a help support for tare calibration (mandatory with big supports)
 * any other improvement that everyone wants to add !
 
+See the [Change Log file](/ChangeLog.md) to follow the evolutions.
 
 
