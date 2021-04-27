@@ -19,6 +19,9 @@ I didn't change everything, of course, the main part of the original program reg
 <p align=center>
 <img src="/Images/CG Scale F5J.jpg" alt="" width="50%" height="50%" />
 </p>
+<p align=center>
+<img src="/Images/CG Scale XLv2.jpg" alt="" width="50%" height="50%" />
+</p>
 
 # What'n new with this release 
 
@@ -34,7 +37,7 @@ I didn't change everything, of course, the main part of the original program reg
 
 * a interactive menu has been added for the initial configuration
 * the autocalibration (a very good idea from Stephen indeed !) has been optimized to win time and accuracy
-* it is possible to choose the type of support: little, medium, large ; for the moment, they all have the same characteristics, but in a later release, I will add bigger support for bigger model
+* it is possible to choose the type of support: little, medium, large 
 * the tare configuration menu is simpler and consumes less memory
 * two lang are available: [English](/User_Manual.md) and [French](/Manuel_utilisateur.md)
 * the keyboard management is done by the excellent library from Vedat, and eliminate the issues when setting the values of key pressed.
@@ -44,11 +47,6 @@ I didn't change everything, of course, the main part of the original program reg
 The assembly instructions are perfectly described into the [Alain's project](https://github.com/adesandr/CG_Scale_OlkalBreakout), so I suggest to follow his guide.
 You can also find useful instructions into the manual from [Stephen's projet](https://github.com/sgamp/CG_Scale_modifiedSG).
 
-# Evolution currently in development
-New supports for bigger models : 
-<p align=center>
-<img src="/Images/CG Scale XLv2.jpg" alt="" width="50%" height="50%" />
-</p>
 
 # Evolution to to
 * use a bigger display, will be more confortable, such as a 1.3" OLED (very easy to do)
