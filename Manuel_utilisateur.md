@@ -30,7 +30,7 @@ Dans les sous-menu, la sélection d'une option se fait avec la touche `Droite`, 
 ` Moyen` </br>
 `>Grand` </br>
 
-Ce sous-menu permet de choisir le type de support. Pour l'instant, les trois supports disponibles ont tous les trois les mêmes caractéristiques, donc il n'est pas utile de changer le type de support. Cela sera utile dans une prochaine version du logiciel, avec de plus grands supports.
+Ce sous-menu permet de choisir le type de support. Les supports sont montrés en photo dans cette page. Il est important de choisir le bon support car les caractéristiques sont différentes. Le support configuré dans la mémoire de la balance est affiché lors du démarrage.
 
 ### Menu Calibration
 **`Calibration`** </br>
